@@ -1,1 +1,4 @@
 test입니다.
+
+echo "hello"
+echo "hello2"
